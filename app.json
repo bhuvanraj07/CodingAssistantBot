@@ -8,7 +8,7 @@
   "env": {
     "BOT_TOKEN": {
       "description": "Put your BOT token obtained from @BotFather",
-      "value": "",
+      "value": "5714322687:AAFFOy45hvtZ0Eb_d2p6urkKhgm66nRbQh4",
       "required": true
     }
   }
