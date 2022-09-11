@@ -1,0 +1,15 @@
+{
+  "name": "Howdoi Telegram ",
+  "description": "Telegram bot that answers your coding questions.",
+  "keywords": ["telegram", "howdoi", "stack overflow"],
+  "website": "https://bhuvanraj07.github.io/mysite/",
+  "repository": "https://github.com/bhuvanraj07/CodingAssistantBot",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Put your BOT token obtained from @BotFather",
+      "value": "",
+      "required": true
+    }
+  }
+}
