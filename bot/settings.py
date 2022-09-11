@@ -10,9 +10,9 @@ if not BOT_TOKEN:
 START_TEXT = '''
 Hi! I am alive. *Ask me a question.*
 
-My [source code](https://github.com/bhuvanraj07/howdoi-telegram) is on GitHub.
+My [source code](https://github.com/bhuvanraj07/CodingAssistantBot) is on GitHub.
 
-I am made using [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) and [howdoi](https://github.com/bhuvanraj07/howdoi-telegram).
+I am made using [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) and [CodingAssistant](https://github.com/bhuvanraj07/CodingAssistantBot).
 '''
 
 HELP_TEXT = '''
