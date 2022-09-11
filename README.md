@@ -28,13 +28,13 @@ Open your terminal and follow the instructions to run the bot.
 - First of all, clone the repository.
 
     ```shell
-    git clone https://github.com/aahnik/howdoi-telegram.git
+    git clone https://github.com/bhuvanraj07/CodingAssistantBot.git
     ```
 
 - Now, move into the `howdoi-telegram` directory.
 
     ```shell
-    cd howdoi-telegram
+    cd CodingAssistantBot
     ```
 
 - Create a python virtual enviroment.
